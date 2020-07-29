@@ -15,7 +15,7 @@ require (
 	github.com/hashicorp/go-multierror v1.0.0
 	github.com/hashicorp/go-version v1.2.0
 	github.com/hashicorp/hcl v1.0.0 // indirect
-	github.com/hashicorp/terraform-plugin-sdk/v2 v2.0.0-rc.2.0.20200729120238-254922102b91
+	github.com/hashicorp/terraform-plugin-sdk/v2 v2.0.0-rc.2.0.20200729161830-f37c0cabbc97
 	github.com/mattn/go-colorable v0.1.1 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/hashstructure v1.0.0
@@ -26,7 +26,7 @@ require (
 	github.com/spf13/pflag v1.0.3 // indirect
 	github.com/stoewer/go-strcase v1.0.2
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	google.golang.org/api v0.26.0
+	google.golang.org/api v0.29.0
 )
 
 go 1.14
